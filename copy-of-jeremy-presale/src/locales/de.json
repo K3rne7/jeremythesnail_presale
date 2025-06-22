@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "appName": "[DE] Jeremy Presale",
+    "hero": {
+      "greeting": "[DE] Triff",
+      "name": "[DE] JEREMY",
+      "tagline": "[DE] Die Reichste Schnecke!",
+      "subtitle": "[DE] $JEREMY ist nicht nur ein Token, es ist eine Bewegung. Langsam und stetig gewinnt das Rennen zum Mond. Steig in den Presale ein, bevor diese Schnecke davonrast!",
+      "cta_buy": "[DE] $JEREMY Jetzt Kaufen!",
+      "cta_whitepaper": "[DE] Whitepaper Lesen"
+    },
+    "navigation": {
+      "home": "[DE] Startseite",
+      "presale_info": "[DE] Presale-Info",
+      "buy_token": "[DE] $JEREMY Kaufen",
+      "tokenomics": "[DE] Tokenomics",
+      "roadmap": "[DE] Roadmap",
+      "team": "[DE] Team",
+      "faq": "[DE] FAQ",
+      "connect_wallet": "[DE] Wallet Verbinden",
+      "wrong_network": "[DE] Falsches Netzwerk"
+    },
+    "countdown": {
+      "title_presale_starts": "[DE] Zeit bis zum Presale-Start",
+      "title_stage_ends": "[DE] Phase {{stage}} Endet In",
+      "title_presale_ended": "[DE] Presale Beendet",
+      "thank_you": "[DE] Danke für deine Teilnahme!",
+      "current_stage": "[DE] Aktuelle Phase",
+      "stage_prefix": "[DE] Phase",
+      "current_price": "[DE] Aktueller Preis",
+      "per_token": "[DE] (pro $JEREMY)",
+      "next_price": "[DE] Nächster Phasenpreis",
+      "next_stage_starts_after": "[DE] Beginnt nach Ende der aktuellen Phase",
+      "starting_price": "[DE] Startpreis Presale",
+      "days": "[DE] Tage",
+      "hours": "[DE] Std",
+      "minutes": "[DE] Min",
+      "seconds": "[DE] Sek"
+    },
+    "progress_bar": {
+      "title": "[DE] Fortschritt",
+      "tokens_sold": "[DE] Verkaufte Token:",
+      "hard_cap": "[DE] Hard Cap:",
+      "loading": "[DE] Lade Fortschritt...",
+      "error": "[DE] Fehler beim Laden des Fortschritts. Erneuter Versuch."
+    },
+    "buy_panel": {
+      "title": "[DE] $JEREMY Kaufen",
+      "connect_wallet_prompt": "[DE] Bitte verbinde dein Wallet, um teilzunehmen.",
+      "wrong_network_prompt": "[DE] Bitte wechsle zu Binance Smart Chain (ID: {{targetChainId}}), um teilzunehmen.",
+      "presale_ended_title": "[DE] Presale Beendet",
+      "presale_ended_message": "[DE] Danke für dein Interesse! Der $JEREMY Presale ist jetzt geschlossen.",
+      "presale_ended_claim_soon": "[DE] Du kannst deine Token bald beanspruchen.",
+      "presale_not_active_title": "[DE] Presale Noch Nicht Aktiv",
+      "presale_not_active_message": "[DE] Der $JEREMY Presale hat noch nicht begonnen. Überprüfe den Countdown oben!",
+      "pay_label": "[DE] Du Zahlst ({{currency}})",
+      "receive_label": "[DE] Du Erhältst ($JEREMY)",
+      "balance": "[DE] Guthaben: {{balance}} {{symbol}}",
+      "amount_in_currency": "[DE] Betrag in {{currency}}",
+      "min_max_purchase": "[DE] Min: {{min}} {{currency}}, Max: {{max}} {{currency}}",
+      "calculated_amount": "[DE] Berechneter Betrag",
+      "current_price_info": "[DE] Aktueller Preis: 1 $JEREMY = ${{price}}",
+      "referrer_label": "[DE] Referrer-Adresse (Optional)",
+      "referrer_placeholder": "[DE] 0x...",
+      "error_buy_failed": "[DE] Kaufvorbereitung fehlgeschlagen. Unzureichendes Guthaben, ungültiger Betrag oder Presale inaktiv. Überprüfe die Konsole.",
+      "error_approval_failed": "[DE] Genehmigungsvorbereitung fehlgeschlagen. Überprüfe die Konsole.",
+      "error_amount_range": "[DE] Der Betrag muss zwischen {{min}} und {{max}} {{currency}} liegen.",
+      "error_generic_approval": "[DE] Genehmigung fehlgeschlagen.",
+      "error_generic_purchase": "[DE] Kauf fehlgeschlagen.",
+      "approve_button": "[DE] {{currency}} Genehmigen",
+      "buy_button": "[DE] $JEREMY Kaufen",
+      "approving_button": "[DE] Genehmigung...",
+      "buying_button": "[DE] Kauf wird Verarbeitet...",
+      "tx_status": {
+        "approval_processing": "[DE] {{type}}-Transaktion wird verarbeitet...",
+        "purchase_processing": "[DE] {{type}}-Transaktion wird verarbeitet...",
+        "approval_successful": "[DE] {{type}} erfolgreich!",
+        "purchase_successful": "[DE] {{type}} erfolgreich!",
+        "submitted": "[DE] {{type}} gesendet.",
+        "view_on_bscscan": "[DE] Auf BscScan ansehen"
+      }
+    },
+    "claim_panel": {
+      "title": "[DE] Deine $JEREMY Beanspruchen",
+      "connect_wallet_prompt": "[DE] Bitte verbinde dein Wallet, um Token zu beanspruchen.",
+      "wrong_network_prompt": "[DE] Bitte wechsle zu Binance Smart Chain (ID: {{targetChainId}}), um zu beanspruchen.",
+      "not_claimable_yet": "[DE] Token-Beanspruchung ist nach Ende des Presales am {{endDate}} verfügbar.",
+      "claim_ready": "[DE] Der Presale ist beendet! Du kannst jetzt deine gekauften $JEREMY Token beanspruchen.",
+      "error_claim_failed": "[DE] Beanspruchungsvorbereitung fehlgeschlagen. Bist du berechtigt oder hat die Beanspruchungsfrist begonnen?",
+      "error_generic_claim": "[DE] Beanspruchung fehlgeschlagen.",
+      "claim_button": "[DE] Token Beanspruchen",
+      "claiming_button": "[DE] Beanspruchung wird Verarbeitet..."
+    },
+    "tokenomics_section": {
+      "title": "[DE] $JEREMY Tokenomics",
+      "description": "[DE] $JEREMY hat ein Gesamtangebot, das für nachhaltiges Wachstum und Community-Belohnungen konzipiert ist. Unsere Tokenomics gewährleisten eine faire Verteilung, starke Liquidität und kontinuierliche Entwicklung.",
+      "total_supply_label": "[DE] Gesamtangebot:",
+      "total_supply_value": "[DE] 1.000.000.000 $JEREMY",
+      "token_symbol_label": "[DE] Token-Symbol:",
+      "network_label": "[DE] Netzwerk:",
+      "network_value": "[DE] Binance Smart Chain (BEP-20)",
+      "distribution": {
+        "presale": "[DE] Presale",
+        "liquidity": "[DE] Liquidität",
+        "team_advisors": "[DE] Team & Berater",
+        "marketing_development": "[DE] Marketing & Entwicklung",
+        "ecosystem_fund": "[DE] Ökosystem-Fonds"
+      },
+      "chart_tooltip": "[DE] {{name}} : {{value}}%"
+    },
+    "roadmap_section": {
+      "title": "[DE] Unsere Reise zum Mond",
+      "q3_2025_title": "[DE] Presale-Start & Community-Aufbau",
+      "q3_2025_desc": "[DE] Start des $JEREMY Presales. Wachstum unserer Schneckenarmee in den sozialen Medien. Erste Marketingkampagne.",
+      "q4_2025_title": "[DE] PancakeSwap-Listing & Erstes CEX",
+      "q4_2025_desc": "[DE] Erfolgreiches Listing von $JEREMY auf PancakeSwap. Sicherung eines Listings an einer seriösen zentralisierten Börse. Start des Staking-Programms.",
+      "q1_2026_title": "[DE] NFT-Kollektion & Snailverse Alpha",
+      "q1_2026_desc": "[DE] Veröffentlichung der exklusiven J-SNAIL NFT-Kollektion. Alpha-Start des Snailverse, unseres Meme-basierten Metaversums.",
+      "q2_2026_title": "[DE] Partnerschaften & Plattformerweiterung",
+      "q2_2026_desc": "[DE] Schmieden strategischer Partnerschaften im DeFi- und Meme-Coin-Bereich. Erweiterung der Snailverse-Funktionen und des Nutzens für $JEREMY.",
+      "completed": "[DE] Abgeschlossen"
+    },
+    "team_section": {
+      "title": "[DE] Triff die Schnecken Hinter den Häusern",
+      "member1_name": "[DE] J-Snail Prime",
+      "member1_role": "[DE] El Presidente & Visionär",
+      "member1_bio": "[DE] Die OG-Schnecke mit der Goldkette. Mastermind hinter dem $JEREMY-Imperium. Langsam, stetig und stinkreich.",
+      "member2_name": "[DE] Shelly \"Die Dev\" Schnecke",
+      "member2_role": "[DE] Leitende Blockchain-Entwicklerin",
+      "member2_bio": "[DE] Codiert schneller als ein Gepard auf Espresso. Hat das Snailverse von Grund auf neu aufgebaut. Lass dich nicht vom Haus täuschen.",
+      "member3_name": "[DE] Gary \"Der Hype\" Gastropode",
+      "member3_role": "[DE] Marketingchef",
+      "member3_bio": "[DE] Verbreitet die Kunde von $JEREMY wie ein Lauffeuer. Kann einer Nacktschnecke Salz verkaufen. Meister der Memes und viralen Kampagnen."
+    },
+    "faq_section": {
+      "title": "[DE] Häufig Gestellte Fragen",
+      "q1_question": "[DE] Was ist $JEREMY?",
+      "q1_answer": "[DE] $JEREMY ist ein revolutionärer BEP-20 Meme-Token auf der Binance Smart Chain, angeführt von der charismatischen J-Snail. Es ist mehr als ein Token; es ist eine Community, eine Atmosphäre und dein Ticket zum Snailverse!",
+      "q2_question": "[DE] Wie kann ich $JEREMY Token kaufen?",
+      "q2_answer": "[DE] Du kannst $JEREMY Token während unseres Presale-Events mit BNB oder USDT kaufen. Verbinde dein Wallet (MetaMask, Trust Wallet, etc.) mit unserer offiziellen Presale-Website und befolge die einfachen Schritte im \"Kauf-Panel\".",
+      "q3_question": "[DE] Wann kann ich meine gekauften Token beanspruchen?",
+      "q3_answer": "[DE] Token, die während des Presales gekauft wurden, können nach Abschluss des Presale-Events beansprucht werden. Die Beanspruchungsfunktion wird auf dieser Website aktiviert. Siehe das \"Beanspruchungs-Panel\" für Details.",
+      "q4_question": "[DE] Was ist das Snailverse?",
+      "q4_answer": "[DE] Das Snailverse ist unser bevorstehendes Meme-basiertes Metaversum, in dem $JEREMY-Inhaber interagieren, Spiele spielen und Belohnungen verdienen können. Es wird langsam, stetig und episch!",
+      "q5_question": "[DE] Ist der Smart Contract auditiert?",
+      "q5_answer": "[DE] Ja, die Smart Contracts für den Presale und den $JEREMY-Token wurden von einer seriösen externen Sicherheitsfirma auditiert. Den Link zum Audit-Bericht findest du auf unserer Website (normalerweise im Footer oder in einem eigenen \"Audit\"-Bereich).",
+      "q6_question": "[DE] Wo finde ich das Whitepaper?",
+      "q6_answer": "[DE] Unser detailliertes Whitepaper steht zum Download bereit. Überprüfe die Links im Hero-Bereich oder im Footer dieser Website."
+    },
+    "social_bar": {
+      "title": "[DE] Tritt dem Schnecken-Kader bei!"
+    },
+    "footer": {
+      "whitepaper": "[DE] Whitepaper",
+      "audit_report": "[DE] Audit-Bericht",
+      "presale_contract": "[DE] Presale-Vertrag",
+      "disclaimer": "[DE] Haftungsausschluss: Kryptowährungsinvestitionen unterliegen hohen Marktrisiken. Bitte tätige deine Investitionen vorsichtig. $JEREMY ist ein Meme-Token, der zu Unterhaltungszwecken erstellt wurde. Recherchiere immer selbst (DYOR). Dies ist keine Finanzberatung.",
+      "copyright": "[DE] © {{year}} Jeremy Die Schnecke. Alle Rechte vorbehalten von der reichsten Schnecke im Sumpf."
+    },
+    "common": {
+      "loading_spinner_alt": "[DE] Laden..."
+    }
+  }
+}

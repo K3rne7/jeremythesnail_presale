@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "appName": "[RU] Jeremy Presale",
+    "hero": {
+      "greeting": "[RU] Встречайте",
+      "name": "[RU] JEREMY",
+      "tagline": "[RU] Самая Богатая Улитка!",
+      "subtitle": "[RU] $JEREMY — это не просто токен, это движение. Медленно и уверенно выигрывает гонку на Луну. Участвуйте в предпродаже, пока эта улитка не умчалась!",
+      "cta_buy": "[RU] Купить $JEREMY Сейчас!",
+      "cta_whitepaper": "[RU] Читать Whitepaper"
+    },
+    "navigation": {
+      "home": "[RU] Главная",
+      "presale_info": "[RU] Информация о Предпродаже",
+      "buy_token": "[RU] Купить $JEREMY",
+      "tokenomics": "[RU] Токеномика",
+      "roadmap": "[RU] Дорожная Карта",
+      "team": "[RU] Команда",
+      "faq": "[RU] FAQ",
+      "connect_wallet": "[RU] Подключить Кошелек",
+      "wrong_network": "[RU] Неверная Сеть"
+    },
+    "countdown": {
+      "title_presale_starts": "[RU] Время до Начала Предпродажи",
+      "title_stage_ends": "[RU] Этап {{stage}} Заканчивается Через",
+      "title_presale_ended": "[RU] Предпродажа Завершена",
+      "thank_you": "[RU] Спасибо за участие!",
+      "current_stage": "[RU] Текущий Этап",
+      "stage_prefix": "[RU] Этап",
+      "current_price": "[RU] Текущая Цена",
+      "per_token": "[RU] (за $JEREMY)",
+      "next_price": "[RU] Цена Следующего Этапа",
+      "next_stage_starts_after": "[RU] Начинается после окончания текущего этапа",
+      "starting_price": "[RU] Стартовая Цена Предпродажи",
+      "days": "[RU] Дней",
+      "hours": "[RU] Часов",
+      "minutes": "[RU] Мин",
+      "seconds": "[RU] Сек"
+    },
+    "progress_bar": {
+      "title": "[RU] Прогресс",
+      "tokens_sold": "[RU] Продано Токенов:",
+      "hard_cap": "[RU] Хардкап:",
+      "loading": "[RU] Загрузка прогресса...",
+      "error": "[RU] Ошибка при загрузке прогресса. Повторная попытка."
+    },
+    "buy_panel": {
+      "title": "[RU] Купить $JEREMY",
+      "connect_wallet_prompt": "[RU] Пожалуйста, подключите ваш кошелек для участия.",
+      "wrong_network_prompt": "[RU] Пожалуйста, переключитесь на Binance Smart Chain (ID: {{targetChainId}}) для участия.",
+      "presale_ended_title": "[RU] Предпродажа Завершена",
+      "presale_ended_message": "[RU] Спасибо за ваш интерес! Предпродажа $JEREMY закрыта.",
+      "presale_ended_claim_soon": "[RU] Вы скоро сможете забрать свои токены.",
+      "presale_not_active_title": "[RU] Предпродажа Еще Не Активна",
+      "presale_not_active_message": "[RU] Предпродажа $JEREMY еще не началась. Проверьте обратный отсчет выше!",
+      "pay_label": "[RU] Вы Платите ({{currency}})",
+      "receive_label": "[RU] Вы Получаете ($JEREMY)",
+      "balance": "[RU] Баланс: {{balance}} {{symbol}}",
+      "amount_in_currency": "[RU] Сумма в {{currency}}",
+      "min_max_purchase": "[RU] Мин: {{min}} {{currency}}, Макс: {{max}} {{currency}}",
+      "calculated_amount": "[RU] Рассчитанная сумма",
+      "current_price_info": "[RU] Текущая Цена: 1 $JEREMY = ${{price}}",
+      "referrer_label": "[RU] Адрес Реферера (Необязательно)",
+      "referrer_placeholder": "[RU] 0x...",
+      "error_buy_failed": "[RU] Ошибка подготовки покупки. Недостаточно средств, неверная сумма или предпродажа неактивна. Проверьте консоль.",
+      "error_approval_failed": "[RU] Ошибка подготовки одобрения. Проверьте консоль.",
+      "error_amount_range": "[RU] Сумма должна быть между {{min}} и {{max}} {{currency}}.",
+      "error_generic_approval": "[RU] Ошибка одобрения.",
+      "error_generic_purchase": "[RU] Ошибка покупки.",
+      "approve_button": "[RU] Одобрить {{currency}}",
+      "buy_button": "[RU] Купить $JEREMY",
+      "approving_button": "[RU] Одобрение...",
+      "buying_button": "[RU] Обработка Покупки...",
+      "tx_status": {
+        "approval_processing": "[RU] Обработка транзакции {{type}}...",
+        "purchase_processing": "[RU] Обработка транзакции {{type}}...",
+        "approval_successful": "[RU] {{type}} успешно!",
+        "purchase_successful": "[RU] {{type}} успешно!",
+        "submitted": "[RU] {{type}} отправлено.",
+        "view_on_bscscan": "[RU] Посмотреть на BscScan"
+      }
+    },
+    "claim_panel": {
+      "title": "[RU] Забрать Ваши $JEREMY",
+      "connect_wallet_prompt": "[RU] Пожалуйста, подключите ваш кошелек, чтобы забрать токены.",
+      "wrong_network_prompt": "[RU] Пожалуйста, переключитесь на Binance Smart Chain (ID: {{targetChainId}}), чтобы забрать.",
+      "not_claimable_yet": "[RU] Забрать токены можно будет после завершения предпродажи {{endDate}}.",
+      "claim_ready": "[RU] Предпродажа завершена! Теперь вы можете забрать купленные токены $JEREMY.",
+      "error_claim_failed": "[RU] Ошибка подготовки к получению. У вас есть право на получение или период получения уже начался?",
+      "error_generic_claim": "[RU] Ошибка получения.",
+      "claim_button": "[RU] Забрать Токены",
+      "claiming_button": "[RU] Обработка Получения..."
+    },
+    "tokenomics_section": {
+      "title": "[RU] Токеномика $JEREMY",
+      "description": "[RU] Общее предложение $JEREMY разработано для устойчивого роста и вознаграждений сообщества. Наша токеномика обеспечивает справедливое распределение, сильную ликвидность и непрерывное развитие.",
+      "total_supply_label": "[RU] Общее Предложение:",
+      "total_supply_value": "[RU] 1,000,000,000 $JEREMY",
+      "token_symbol_label": "[RU] Символ Токена:",
+      "network_label": "[RU] Сеть:",
+      "network_value": "[RU] Binance Smart Chain (BEP-20)",
+      "distribution": {
+        "presale": "[RU] Предпродажа",
+        "liquidity": "[RU] Ликвидность",
+        "team_advisors": "[RU] Команда и Советники",
+        "marketing_development": "[RU] Маркетинг и Разработка",
+        "ecosystem_fund": "[RU] Фонд Экосистемы"
+      },
+      "chart_tooltip": "[RU] {{name}} : {{value}}%"
+    },
+    "roadmap_section": {
+      "title": "[RU] Наше Путешествие на Луну",
+      "q3_2025_title": "[RU] Запуск Предпродажи и Создание Сообщества",
+      "q3_2025_desc": "[RU] Старт предпродажи $JEREMY. Рост нашей армии улиток в социальных сетях. Первоначальный маркетинговый толчок.",
+      "q4_2025_title": "[RU] Листинг на PancakeSwap и Первый CEX",
+      "q4_2025_desc": "[RU] Успешный листинг $JEREMY на PancakeSwap. Обеспечение листинга на авторитетной централизованной бирже. Запуск программы стейкинга.",
+      "q1_2026_title": "[RU] Коллекция NFT и Snailverse Альфа",
+      "q1_2026_desc": "[RU] Выпуск эксклюзивной коллекции NFT J-SNAIL. Альфа-запуск Snailverse, нашей метавселенной на основе мемов.",
+      "q2_2026_title": "[RU] Партнерства и Расширение Платформы",
+      "q2_2026_desc": "[RU] Создание стратегических партнерств в пространстве DeFi и мем-коинов. Расширение функций Snailverse и полезности для $JEREMY.",
+      "completed": "[RU] Завершено"
+    },
+    "team_section": {
+      "title": "[RU] Познакомьтесь с Улитками за Панцирями",
+      "member1_name": "[RU] J-Snail Prime",
+      "member1_role": "[RU] Эль Президенте и Визионер",
+      "member1_bio": "[RU] OG улитка с золотой цепью. Вдохновитель империи $JEREMY. Медленный, уверенный и неприлично богатый.",
+      "member2_name": "[RU] Шелли \"Разраб\" Улитка",
+      "member2_role": "[RU] Ведущий Разработчик Блокчейна",
+      "member2_bio": "[RU] Кодирует быстрее гепарда на эспрессо. Создала Snailverse с нуля. Не дайте панцирю вас обмануть.",
+      "member3_name": "[RU] Гэри \"Хайп\" Брюхоногий",
+      "member3_role": "[RU] Главный Маркетолог",
+      "member3_bio": "[RU] Распространяет весть о $JEREMY как лесной пожар. Может продать соль слизняку. Мастер мемов и вирусных кампаний."
+    },
+    "faq_section": {
+      "title": "[RU] Часто Задаваемые Вопросы",
+      "q1_question": "[RU] Что такое $JEREMY?",
+      "q1_answer": "[RU] $JEREMY — это революционный мем-токен BEP-20 на Binance Smart Chain, возглавляемый харизматичным J-Snail. Это больше, чем токен; это сообщество, атмосфера и ваш билет в Snailverse!",
+      "q2_question": "[RU] Как я могу купить токены $JEREMY?",
+      "q2_answer": "[RU] Вы можете купить токены $JEREMY во время нашей предпродажи, используя BNB или USDT. Подключите свой кошелек (MetaMask, Trust Wallet и т.д.) к нашему официальному сайту предпродажи и следуйте простым шагам в \"Панели Покупки\".",
+      "q3_question": "[RU] Когда я смогу забрать купленные токены?",
+      "q3_answer": "[RU] Токены, купленные во время предпродажи, можно будет забрать после завершения предпродажи. Функция получения будет активирована на этом сайте. Подробности см. в \"Панели Получения\".",
+      "q4_question": "[RU] Что такое Snailverse?",
+      "q4_answer": "[RU] Snailverse — это наша грядущая метавселенная на основе мемов, где владельцы $JEREMY смогут взаимодействовать, играть в игры и получать награды. Это будет медленно, уверенно и эпично!",
+      "q5_question": "[RU] Проверен ли смарт-контракт?",
+      "q5_answer": "[RU] Да, смарт-контракты предпродажи и токена $JEREMY были проверены авторитетной сторонней охранной фирмой. Ссылку на отчет об аудите вы можете найти на нашем сайте (обычно в футере или специальном разделе \"Аудит\").",
+      "q6_question": "[RU] Где я могу найти Whitepaper?",
+      "q6_answer": "[RU] Наш подробный Whitepaper доступен для скачивания. Проверьте ссылки в разделе Hero или в футере этого сайта."
+    },
+    "social_bar": {
+      "title": "[RU] Присоединяйся к Улиточному Отряду!"
+    },
+    "footer": {
+      "whitepaper": "[RU] Whitepaper",
+      "audit_report": "[RU] Отчет об Аудите",
+      "presale_contract": "[RU] Контракт Предпродажи",
+      "disclaimer": "[RU] Отказ от ответственности: Инвестиции в криптовалюту подвержены высокому рыночному риску. Пожалуйста, совершайте инвестиции осторожно. $JEREMY — это мем-токен, созданный в развлекательных целях. Всегда проводите собственное исследование (DYOR). Это не финансовый совет.",
+      "copyright": "[RU] © {{year}} Jeremy Улитка. Все права защищены самой богатой улиткой на болоте."
+    },
+    "common": {
+      "loading_spinner_alt": "[RU] Загрузка..."
+    }
+  }
+}

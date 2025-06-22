@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "appName": "Jeremy Prev[IT]",
+    "hero": {
+      "greeting": "[IT] Ecco a voi",
+      "name": "[IT] JEREMY",
+      "tagline": "[IT] La Lumaca Più Ricca!",
+      "subtitle": "[IT] $JEREMY non è solo un token, è un movimento. Chi va piano, va sano e va sulla luna. Entra nella prevendita prima che questa lumaca scappi via!",
+      "cta_buy": "[IT] Compra $JEREMY Ora!",
+      "cta_whitepaper": "[IT] Leggi il Whitepaper"
+    },
+    "navigation": {
+      "home": "[IT] Home",
+      "presale_info": "[IT] Info Prevendita",
+      "buy_token": "[IT] Compra $JEREMY",
+      "tokenomics": "[IT] Tokenomics",
+      "roadmap": "[IT] Roadmap",
+      "team": "[IT] Team",
+      "faq": "[IT] FAQ",
+      "connect_wallet": "[IT] Connetti Wallet",
+      "wrong_network": "[IT] Rete Errata"
+    },
+    "countdown": {
+      "title_presale_starts": "[IT] Tempo all'Inizio della Prevendita",
+      "title_stage_ends": "[IT] Fase {{stage}} Termina Tra",
+      "title_presale_ended": "[IT] Prevendita Terminata",
+      "thank_you": "[IT] Grazie per la tua partecipazione!",
+      "current_stage": "[IT] Fase Corrente",
+      "stage_prefix": "[IT] Fase",
+      "current_price": "[IT] Prezzo Corrente",
+      "per_token": "[IT] (per $JEREMY)",
+      "next_price": "[IT] Prezzo Fase Successiva",
+      "next_stage_starts_after": "[IT] Inizia dopo la fine della fase corrente",
+      "starting_price": "[IT] Prezzo Iniziale Prevendita",
+      "days": "[IT] Giorni",
+      "hours": "[IT] Ore",
+      "minutes": "[IT] Min",
+      "seconds": "[IT] Sec"
+    },
+    "progress_bar": {
+      "title": "[IT] Progresso",
+      "tokens_sold": "[IT] Token Venduti:",
+      "hard_cap": "[IT] Hard Cap:",
+      "loading": "[IT] Caricamento progresso...",
+      "error": "[IT] Errore nel caricare il progresso. Riprovo."
+    },
+    "buy_panel": {
+      "title": "[IT] Compra $JEREMY",
+      "connect_wallet_prompt": "[IT] Per favore, connetti il tuo wallet per partecipare.",
+      "wrong_network_prompt": "[IT] Per favore, passa alla Binance Smart Chain (ID: {{targetChainId}}) per partecipare.",
+      "presale_ended_title": "[IT] Prevendita Terminata",
+      "presale_ended_message": "[IT] Grazie per il tuo interesse! La prevendita di $JEREMY è ora chiusa.",
+      "presale_ended_claim_soon": "[IT] Potrai riscattare i tuoi token a breve.",
+      "presale_not_active_title": "[IT] Prevendita Non Ancora Attiva",
+      "presale_not_active_message": "[IT] La prevendita di $JEREMY non è ancora iniziata. Controlla il countdown qui sopra!",
+      "pay_label": "[IT] Tu Paghi ({{currency}})",
+      "receive_label": "[IT] Tu Ricevi ($JEREMY)",
+      "balance": "[IT] Saldo: {{balance}} {{symbol}}",
+      "amount_in_currency": "[IT] Importo in {{currency}}",
+      "min_max_purchase": "[IT] Min: {{min}} {{currency}}, Max: {{max}} {{currency}}",
+      "calculated_amount": "[IT] Importo calcolato",
+      "current_price_info": "[IT] Prezzo Corrente: 1 $JEREMY = ${{price}}",
+      "referrer_label": "[IT] Indirizzo Referrer (Opzionale)",
+      "referrer_placeholder": "[IT] 0x...",
+      "error_buy_failed": "[IT] Preparazione acquisto fallita. Fondi insufficienti, importo non valido o prevendita inattiva. Controlla la console.",
+      "error_approval_failed": "[IT] Preparazione approvazione fallita. Controlla la console.",
+      "error_amount_range": "[IT] L'importo deve essere tra {{min}} e {{max}} {{currency}}.",
+      "error_generic_approval": "[IT] Approvazione fallita.",
+      "error_generic_purchase": "[IT] Acquisto fallito.",
+      "approve_button": "[IT] Approva {{currency}}",
+      "buy_button": "[IT] Compra $JEREMY",
+      "approving_button": "[IT] Approvazione...",
+      "buying_button": "[IT] Elaborazione Acquisto...",
+      "tx_status": {
+        "approval_processing": "[IT] Transazione di {{type}} in elaborazione...",
+        "purchase_processing": "[IT] Transazione di {{type}} in elaborazione...",
+        "approval_successful": "[IT] {{type}} riuscita!",
+        "purchase_successful": "[IT] {{type}} riuscita!",
+        "submitted": "[IT] {{type}} inviata.",
+        "view_on_bscscan": "[IT] Vedi su BscScan"
+      }
+    },
+    "claim_panel": {
+      "title": "[IT] Riscatta i Tuoi $JEREMY",
+      "connect_wallet_prompt": "[IT] Per favore, connetti il tuo wallet per riscattare i token.",
+      "wrong_network_prompt": "[IT] Per favore, passa alla Binance Smart Chain (ID: {{targetChainId}}) per riscattare.",
+      "not_claimable_yet": "[IT] Il riscatto dei token sarà disponibile dopo la conclusione della prevendita il {{endDate}}.",
+      "claim_ready": "[IT] La prevendita è terminata! Ora puoi riscattare i tuoi token $JEREMY acquistati.",
+      "error_claim_failed": "[IT] Preparazione riscatto fallita. Sei idoneo o il periodo di riscatto è iniziato?",
+      "error_generic_claim": "[IT] Riscatto fallito.",
+      "claim_button": "[IT] Riscatta Token",
+      "claiming_button": "[IT] Elaborazione Riscatto..."
+    },
+    "tokenomics_section": {
+      "title": "[IT] Tokenomics di $JEREMY",
+      "description": "[IT] $JEREMY ha una supply totale progettata per una crescita sostenibile e ricompense per la community. La nostra tokenomics assicura una distribuzione equa, forte liquidità e sviluppo continuo.",
+      "total_supply_label": "[IT] Supply Totale:",
+      "total_supply_value": "[IT] 1,000,000,000 $JEREMY",
+      "token_symbol_label": "[IT] Simbolo Token:",
+      "network_label": "[IT] Rete:",
+      "network_value": "[IT] Binance Smart Chain (BEP-20)",
+      "distribution": {
+        "presale": "[IT] Prevendita",
+        "liquidity": "[IT] Liquidità",
+        "team_advisors": "[IT] Team & Consulenti",
+        "marketing_development": "[IT] Marketing & Sviluppo",
+        "ecosystem_fund": "[IT] Fondo Ecosistema"
+      },
+      "chart_tooltip": "[IT] {{name}} : {{value}}%"
+    },
+    "roadmap_section": {
+      "title": "[IT] Il Nostro Viaggio Verso la Luna",
+      "q3_2025_title": "[IT] Lancio Prevendita & Costruzione Community",
+      "q3_2025_desc": "[IT] Inizio della prevendita $JEREMY. Crescita della nostra armata di lumache sui social media. Spinta marketing iniziale.",
+      "q4_2025_title": "[IT] Quotazione su PancakeSwap & Primo CEX",
+      "q4_2025_desc": "[IT] Quotazione di successo di $JEREMY su PancakeSwap. Assicurare la quotazione su un Exchange Centralizzato rispettabile. Lancio del programma di staking.",
+      "q1_2026_title": "[IT] Collezione NFT & Alpha Snailverse",
+      "q1_2026_desc": "[IT] Rilascio dell'esclusiva collezione NFT J-SNAIL. Lancio Alpha dello Snailverse, il nostro metaverso alimentato dai meme.",
+      "q2_2026_title": "[IT] Partnership & Espansione Piattaforma",
+      "q2_2026_desc": "[IT] Stringere partnership strategiche nello spazio DeFi e delle meme coin. Espandere le funzionalità e l'utilità di Snailverse per $JEREMY.",
+      "completed": "[IT] Completato"
+    },
+    "team_section": {
+      "title": "[IT] Incontra le Lumache Dietro i Gusci",
+      "member1_name": "[IT] J-Snail Prime",
+      "member1_role": "[IT] El Presidente & Visionario",
+      "member1_bio": "[IT] La lumaca OG con la catena d'oro. Mente dietro l'impero $JEREMY. Lento, costante e schifosamente ricco.",
+      "member2_name": "[IT] Shelly \"La Dev\" Lumaca",
+      "member2_role": "[IT] Sviluppatore Blockchain Capo",
+      "member2_bio": "[IT] Scrive codice più velocemente di un ghepardo sotto espresso. Ha costruito lo Snailverse da zero. Non lasciarti ingannare dal guscio.",
+      "member3_name": "[IT] Gary \"L'Hype\" Gasteropode",
+      "member3_role": "[IT] Direttore Marketing",
+      "member3_bio": "[IT] Diffonde la parola di $JEREMY come un incendio. Può vendere sale a una lumaca nuda. Maestro dei meme e delle campagne virali."
+    },
+    "faq_section": {
+      "title": "[IT] Domande Frequenti",
+      "q1_question": "[IT] Cos'è $JEREMY?",
+      "q1_answer": "[IT] $JEREMY è un token meme BEP-20 rivoluzionario sulla Binance Smart Chain, guidato dal carismatico J-Snail. È più di un token; è una community, un'atmosfera e il tuo biglietto per lo Snailverse!",
+      "q2_question": "[IT] Come posso comprare i token $JEREMY?",
+      "q2_answer": "[IT] Puoi comprare i token $JEREMY durante il nostro evento di prevendita usando BNB o USDT. Connetti il tuo wallet (MetaMask, Trust Wallet, ecc.) al nostro sito web ufficiale di prevendita e segui i semplici passaggi nel \"Pannello di Acquisto\".",
+      "q3_question": "[IT] Quando posso riscattare i miei token acquistati?",
+      "q3_answer": "[IT] I token acquistati durante la prevendita possono essere riscattati dopo la conclusione dell'evento di prevendita. La funzione di riscatto sarà abilitata su questo sito web. Vedi il \"Pannello di Riscatto\" per i dettagli.",
+      "q4_question": "[IT] Cos'è lo Snailverse?",
+      "q4_answer": "[IT] Lo Snailverse è il nostro imminente metaverso alimentato dai meme dove i detentori di $JEREMY possono interagire, giocare e guadagnare ricompense. Sarà lento, costante ed epico!",
+      "q5_question": "[IT] Lo smart contract è verificato?",
+      "q5_answer": "[IT] Sì, gli smart contract di prevendita e del token $JEREMY sono stati verificati da una società di sicurezza di terze parti rispettabile. Puoi trovare il link al report di verifica sul nostro sito web (solitamente nel Footer o in una sezione dedicata \"Audit\").",
+      "q6_question": "[IT] Dove posso trovare il Whitepaper?",
+      "q6_answer": "[IT] Il nostro Whitepaper dettagliato è disponibile per il download. Controlla i link nella sezione Hero o nel Footer di questo sito web."
+    },
+    "social_bar": {
+      "title": "[IT] Unisciti alla Squadra Lumaca!"
+    },
+    "footer": {
+      "whitepaper": "[IT] Whitepaper",
+      "audit_report": "[IT] Report Audit",
+      "presale_contract": "[IT] Contratto Prevendita",
+      "disclaimer": "[IT] Disclaimer: gli investimenti in criptovalute sono soggetti a elevati rischi di mercato. Effettua i tuoi investimenti con cautela. $JEREMY è un token crypto meme creato per scopi di intrattenimento. Fai sempre le tue ricerche (DYOR). Questo non è un consiglio finanziario.",
+      "copyright": "[IT] © {{year}} Jeremy La Lumaca. Tutti i diritti riservati dalla lumaca più ricca della palude."
+    },
+    "common": {
+      "loading_spinner_alt": "[IT] Caricamento..."
+    }
+  }
+}

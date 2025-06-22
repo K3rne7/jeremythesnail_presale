@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "appName": "[KO] Jeremy Presale",
+    "hero": {
+      "greeting": "[KO] 만나보세요",
+      "name": "[KO] JEREMY",
+      "tagline": "[KO] 가장 부유한 달팽이!",
+      "subtitle": "[KO] $JEREMY는 단순한 토큰이 아니라 운동입니다. 느리고 꾸준하게 달을 향한 경주에서 승리합니다. 이 달팽이가 속도를 내기 전에 프리세일에 참여하세요!",
+      "cta_buy": "[KO] 지금 $JEREMY 구매!",
+      "cta_whitepaper": "[KO] 백서 읽기"
+    },
+    "navigation": {
+      "home": "[KO] 홈",
+      "presale_info": "[KO] 프리세일 정보",
+      "buy_token": "[KO] $JEREMY 구매",
+      "tokenomics": "[KO] 토크노믹스",
+      "roadmap": "[KO] 로드맵",
+      "team": "[KO] 팀",
+      "faq": "[KO] FAQ",
+      "connect_wallet": "[KO] 지갑 연결",
+      "wrong_network": "[KO] 잘못된 네트워크"
+    },
+    "countdown": {
+      "title_presale_starts": "[KO] 프리세일 시작까지 남은 시간",
+      "title_stage_ends": "[KO] {{stage}} 단계 종료까지",
+      "title_presale_ended": "[KO] 프리세일 종료됨",
+      "thank_you": "[KO] 참여해주셔서 감사합니다!",
+      "current_stage": "[KO] 현재 단계",
+      "stage_prefix": "[KO] 단계",
+      "current_price": "[KO] 현재 가격",
+      "per_token": "[KO] ($JEREMY 당)",
+      "next_price": "[KO] 다음 단계 가격",
+      "next_stage_starts_after": "[KO] 현재 단계 종료 후 시작",
+      "starting_price": "[KO] 프리세일 시작 가격",
+      "days": "[KO] 일",
+      "hours": "[KO] 시간",
+      "minutes": "[KO] 분",
+      "seconds": "[KO] 초"
+    },
+    "progress_bar": {
+      "title": "[KO] 진행률",
+      "tokens_sold": "[KO] 판매된 토큰:",
+      "hard_cap": "[KO] 하드캡:",
+      "loading": "[KO] 진행률 로딩 중...",
+      "error": "[KO] 진행률을 가져오는 중 오류가 발생했습니다. 다시 시도합니다."
+    },
+    "buy_panel": {
+      "title": "[KO] $JEREMY 구매",
+      "connect_wallet_prompt": "[KO] 참여하려면 지갑을 연결해주세요.",
+      "wrong_network_prompt": "[KO] 참여하려면 바이낸스 스마트 체인(ID: {{targetChainId}})으로 전환해주세요.",
+      "presale_ended_title": "[KO] 프리세일 종료됨",
+      "presale_ended_message": "[KO] 관심을 가져주셔서 감사합니다! $JEREMY 프리세일이 종료되었습니다.",
+      "presale_ended_claim_soon": "[KO] 곧 토큰을 클레임할 수 있습니다.",
+      "presale_not_active_title": "[KO] 프리세일이 아직 활성화되지 않음",
+      "presale_not_active_message": "[KO] $JEREMY 프리세일이 아직 시작되지 않았습니다. 위의 카운트다운을 확인하세요!",
+      "pay_label": "[KO] 지불 금액 ({{currency}})",
+      "receive_label": "[KO] 수령 금액 ($JEREMY)",
+      "balance": "[KO] 잔액: {{balance}} {{symbol}}",
+      "amount_in_currency": "[KO] {{currency}} 금액",
+      "min_max_purchase": "[KO] 최소: {{min}} {{currency}}, 최대: {{max}} {{currency}}",
+      "calculated_amount": "[KO] 계산된 금액",
+      "current_price_info": "[KO] 현재 가격: 1 $JEREMY = ${{price}}",
+      "referrer_label": "[KO] 추천인 주소 (선택 사항)",
+      "referrer_placeholder": "[KO] 0x...",
+      "error_buy_failed": "[KO] 구매 준비 실패. 자금 부족, 잘못된 금액 또는 프리세일 비활성 상태입니다. 콘솔을 확인하세요.",
+      "error_approval_failed": "[KO] 승인 준비 실패. 콘솔을 확인하세요.",
+      "error_amount_range": "[KO] 금액은 {{min}}에서 {{max}} {{currency}} 사이여야 합니다.",
+      "error_generic_approval": "[KO] 승인 실패.",
+      "error_generic_purchase": "[KO] 구매 실패.",
+      "approve_button": "[KO] {{currency}} 승인",
+      "buy_button": "[KO] $JEREMY 구매",
+      "approving_button": "[KO] 승인 중...",
+      "buying_button": "[KO] 구매 처리 중...",
+      "tx_status": {
+        "approval_processing": "[KO] {{type}} 트랜잭션 처리 중...",
+        "purchase_processing": "[KO] {{type}} 트랜잭션 처리 중...",
+        "approval_successful": "[KO] {{type}} 성공!",
+        "purchase_successful": "[KO] {{type}} 성공!",
+        "submitted": "[KO] {{type}} 제출됨.",
+        "view_on_bscscan": "[KO] BscScan에서 보기"
+      }
+    },
+    "claim_panel": {
+      "title": "[KO] $JEREMY 클레임",
+      "connect_wallet_prompt": "[KO] 토큰을 클레임하려면 지갑을 연결해주세요.",
+      "wrong_network_prompt": "[KO] 클레임하려면 바이낸스 스마트 체인(ID: {{targetChainId}})으로 전환해주세요.",
+      "not_claimable_yet": "[KO] 토큰 클레임은 {{endDate}}에 프리세일이 종료된 후 가능합니다.",
+      "claim_ready": "[KO] 프리세일이 종료되었습니다! 구매한 $JEREMY 토큰을 클레임할 수 있습니다.",
+      "error_claim_failed": "[KO] 클레임 준비 실패. 자격이 있거나 클레임 기간이 시작되었습니까?",
+      "error_generic_claim": "[KO] 클레임 실패.",
+      "claim_button": "[KO] 토큰 클레임",
+      "claiming_button": "[KO] 클레임 처리 중..."
+    },
+    "tokenomics_section": {
+      "title": "[KO] $JEREMY 토크노믹스",
+      "description": "[KO] $JEREMY는 지속 가능한 성장과 커뮤니티 보상을 위해 설계된 총 공급량을 가지고 있습니다. 우리의 토크노믹스는 공정한 분배, 강력한 유동성 및 지속적인 개발을 보장합니다.",
+      "total_supply_label": "[KO] 총 공급량:",
+      "total_supply_value": "[KO] 1,000,000,000 $JEREMY",
+      "token_symbol_label": "[KO] 토큰 심볼:",
+      "network_label": "[KO] 네트워크:",
+      "network_value": "[KO] 바이낸스 스마트 체인 (BEP-20)",
+      "distribution": {
+        "presale": "[KO] 프리세일",
+        "liquidity": "[KO] 유동성",
+        "team_advisors": "[KO] 팀 및 고문",
+        "marketing_development": "[KO] 마케팅 및 개발",
+        "ecosystem_fund": "[KO] 생태계 기금"
+      },
+      "chart_tooltip": "[KO] {{name}} : {{value}}%"
+    },
+    "roadmap_section": {
+      "title": "[KO] 달을 향한 우리의 여정",
+      "q3_2025_title": "[KO] 프리세일 시작 및 커뮤니티 구축",
+      "q3_2025_desc": "[KO] $JEREMY 프리세일 시작. 소셜 미디어에서 달팽이 군단 육성. 초기 마케팅 추진.",
+      "q4_2025_title": "[KO] 팬케이크스왑 상장 및 첫 CEX",
+      "q4_2025_desc": "[KO] $JEREMY의 팬케이크스왑 성공적 상장. 평판 좋은 중앙화 거래소 상장 확보. 스테이킹 프로그램 시작.",
+      "q1_2026_title": "[KO] NFT 컬렉션 및 스네일버스 알파",
+      "q1_2026_desc": "[KO] 독점 J-SNAIL NFT 컬렉션 출시. 밈 기반 메타버스인 스네일버스 알파 출시.",
+      "q2_2026_title": "[KO] 파트너십 및 플랫폼 확장",
+      "q2_2026_desc": "[KO] DeFi 및 밈 코인 분야에서 전략적 파트너십 구축. $JEREMY를 위한 스네일버스 기능 및 유틸리티 확장.",
+      "completed": "[KO] 완료됨"
+    },
+    "team_section": {
+      "title": "[KO] 껍질 뒤의 달팽이들을 만나보세요",
+      "member1_name": "[KO] J-Snail Prime",
+      "member1_role": "[KO] 대통령 및 비전가",
+      "member1_bio": "[KO] 황금 사슬을 가진 OG 달팽이. $JEREMY 제국의 배후. 느리고, 꾸준하며, 엄청나게 부유함.",
+      "member2_name": "[KO] Shelly \"The Dev\" Snail",
+      "member2_role": "[KO] 수석 블록체인 개발자",
+      "member2_bio": "[KO] 에스프레소를 마신 치타보다 빠르게 코딩합니다. 스네일버스를 처음부터 구축했습니다. 껍질에 속지 마세요.",
+      "member3_name": "[KO] Gary \"The Hype\" Gastropod",
+      "member3_role": "[KO] 최고 마케팅 책임자",
+      "member3_bio": "[KO] $JEREMY의 소문을 들불처럼 퍼뜨립니다. 민달팽이에게 소금을 팔 수 있습니다. 밈과 바이럴 캠페인의 달인."
+    },
+    "faq_section": {
+      "title": "[KO] 자주 묻는 질문",
+      "q1_question": "[KO] $JEREMY란 무엇인가요?",
+      "q1_answer": "[KO] $JEREMY는 카리스마 넘치는 J-Snail이 이끄는 바이낸스 스마트 체인의 혁신적인 BEP-20 밈 토큰입니다. 단순한 토큰 그 이상입니다. 커뮤니티이자 분위기이며, 스네일버스로 가는 티켓입니다!",
+      "q2_question": "[KO] $JEREMY 토큰은 어떻게 구매할 수 있나요?",
+      "q2_answer": "[KO] 프리세일 이벤트 기간 동안 BNB 또는 USDT를 사용하여 $JEREMY 토큰을 구매할 수 있습니다. 지갑(메타마스크, 트러스트 월렛 등)을 공식 프리세일 웹사이트에 연결하고 \"구매 패널\"의 간단한 단계를 따르세요.",
+      "q3_question": "[KO] 구매한 토큰은 언제 클레임할 수 있나요?",
+      "q3_answer": "[KO] 프리세일 기간 동안 구매한 토큰은 프리세일 이벤트 종료 후 클레임할 수 있습니다. 클레임 기능은 이 웹사이트에서 활성화됩니다. 자세한 내용은 \"클레임 패널\"을 참조하세요.",
+      "q4_question": "[KO] 스네일버스란 무엇인가요?",
+      "q4_answer": "[KO] 스네일버스는 $JEREMY 보유자가 상호 작용하고, 게임을 하고, 보상을 받을 수 있는 다가오는 밈 기반 메타버스입니다. 느리고, 꾸준하며, 장대할 것입니다!",
+      "q5_question": "[KO] 스마트 계약은 감사되었나요?",
+      "q5_answer": "[KO] 예, $JEREMY 프리세일 및 토큰 스마트 계약은 평판 좋은 제3자 보안 회사로부터 감사를 받았습니다. 감사 보고서 링크는 당사 웹사이트(일반적으로 푸터 또는 전용 \"감사\" 섹션)에서 찾을 수 있습니다.",
+      "q6_question": "[KO] 백서는 어디에서 찾을 수 있나요?",
+      "q6_answer": "[KO] 자세한 백서는 다운로드할 수 있습니다. 이 웹사이트의 히어로 섹션 또는 푸터의 링크를 확인하세요."
+    },
+    "social_bar": {
+      "title": "[KO] 달팽이 분대에 합류하세요!"
+    },
+    "footer": {
+      "whitepaper": "[KO] 백서",
+      "audit_report": "[KO] 감사 보고서",
+      "presale_contract": "[KO] 프리세일 계약",
+      "disclaimer": "[KO] 면책 조항: 암호화폐 투자는 높은 시장 위험에 노출되어 있습니다. 신중하게 투자하십시오. $JEREMY는 엔터테인먼트 목적으로 만들어진 밈 토큰입니다. 항상 직접 조사하십시오(DYOR). 이것은 금융 자문이 아닙니다.",
+      "copyright": "[KO] © {{year}} Jeremy The Snail. 늪에서 가장 부유한 달팽이가 모든 권리를 보유합니다."
+    },
+    "common": {
+      "loading_spinner_alt": "[KO] 로딩 중..."
+    }
+  }
+}

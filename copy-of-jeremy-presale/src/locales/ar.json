@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "appName": "[AR] Jeremy Presale",
+    "hero": {
+      "greeting": "[AR] تعرف على",
+      "name": "[AR] JEREMY",
+      "tagline": "[AR] أغنى حلزون!",
+      "subtitle": "[AR] $JEREMY ليس مجرد رمز، إنه حركة. البطء والثبات يفوزان بالسباق إلى القمر. شارك في البيع المسبق قبل أن يسرع هذا الحلزون!",
+      "cta_buy": "[AR] اشترِ $JEREMY الآن!",
+      "cta_whitepaper": "[AR] اقرأ الورقة البيضاء"
+    },
+    "navigation": {
+      "home": "[AR] الرئيسية",
+      "presale_info": "[AR] معلومات البيع المسبق",
+      "buy_token": "[AR] اشترِ $JEREMY",
+      "tokenomics": "[AR] اقتصاديات الرمز",
+      "roadmap": "[AR] خارطة الطريق",
+      "team": "[AR] الفريق",
+      "faq": "[AR] الأسئلة الشائعة",
+      "connect_wallet": "[AR] ربط المحفظة",
+      "wrong_network": "[AR] شبكة خاطئة"
+    },
+    "countdown": {
+      "title_presale_starts": "[AR] الوقت حتى يبدأ البيع المسبق",
+      "title_stage_ends": "[AR] المرحلة {{stage}} تنتهي خلال",
+      "title_presale_ended": "[AR] انتهى البيع المسبق",
+      "thank_you": "[AR] شكرا لمشاركتك!",
+      "current_stage": "[AR] المرحلة الحالية",
+      "stage_prefix": "[AR] المرحلة",
+      "current_price": "[AR] السعر الحالي",
+      "per_token": "[AR] (لكل $JEREMY)",
+      "next_price": "[AR] سعر المرحلة التالية",
+      "next_stage_starts_after": "[AR] يبدأ بعد انتهاء المرحلة الحالية",
+      "starting_price": "[AR] سعر بدء البيع المسبق",
+      "days": "[AR] أيام",
+      "hours": "[AR] ساعات",
+      "minutes": "[AR] دقائق",
+      "seconds": "[AR] ثواني"
+    },
+    "progress_bar": {
+      "title": "[AR] التقدم",
+      "tokens_sold": "[AR] الرموز المباعة:",
+      "hard_cap": "[AR] الحد الأقصى:",
+      "loading": "[AR] جارٍ تحميل التقدم...",
+      "error": "[AR] خطأ في جلب التقدم. سأحاول مرة أخرى."
+    },
+    "buy_panel": {
+      "title": "[AR] اشترِ $JEREMY",
+      "connect_wallet_prompt": "[AR] يرجى ربط محفظتك للمشاركة.",
+      "wrong_network_prompt": "[AR] يرجى التبديل إلى شبكة Binance Smart Chain (المعرف: {{targetChainId}}) للمشاركة.",
+      "presale_ended_title": "[AR] انتهى البيع المسبق",
+      "presale_ended_message": "[AR] شكرا لاهتمامك! تم إغلاق البيع المسبق لـ $JEREMY الآن.",
+      "presale_ended_claim_soon": "[AR] ستتمكن من المطالبة برموزك قريبًا.",
+      "presale_not_active_title": "[AR] البيع المسبق غير نشط بعد",
+      "presale_not_active_message": "[AR] لم يبدأ البيع المسبق لـ $JEREMY بعد. تحقق من العد التنازلي أعلاه!",
+      "pay_label": "[AR] أنت تدفع ({{currency}})",
+      "receive_label": "[AR] أنت تتلقى ($JEREMY)",
+      "balance": "[AR] الرصيد: {{balance}} {{symbol}}",
+      "amount_in_currency": "[AR] المبلغ بـ {{currency}}",
+      "min_max_purchase": "[AR] الحد الأدنى: {{min}} {{currency}}، الحد الأقصى: {{max}} {{currency}}",
+      "calculated_amount": "[AR] المبلغ المحسوب",
+      "current_price_info": "[AR] السعر الحالي: 1 $JEREMY = ${{price}}",
+      "referrer_label": "[AR] عنوان المُحيل (اختياري)",
+      "referrer_placeholder": "[AR] ...0x",
+      "error_buy_failed": "[AR] فشل تحضير الشراء. أموال غير كافية، مبلغ غير صالح، أو البيع المسبق غير نشط. تحقق من وحدة التحكم.",
+      "error_approval_failed": "[AR] فشل تحضير الموافقة. تحقق من وحدة التحكم.",
+      "error_amount_range": "[AR] يجب أن يكون المبلغ بين {{min}} و {{max}} {{currency}}.",
+      "error_generic_approval": "[AR] فشلت الموافقة.",
+      "error_generic_purchase": "[AR] فشل الشراء.",
+      "approve_button": "[AR] موافقة على {{currency}}",
+      "buy_button": "[AR] اشترِ $JEREMY",
+      "approving_button": "[AR] جارٍ الموافقة...",
+      "buying_button": "[AR] جارٍ معالجة الشراء...",
+      "tx_status": {
+        "approval_processing": "[AR] جارٍ معالجة معاملة {{type}}...",
+        "purchase_processing": "[AR] جارٍ معالجة معاملة {{type}}...",
+        "approval_successful": "[AR] تمت {{type}} بنجاح!",
+        "purchase_successful": "[AR] تمت {{type}} بنجاح!",
+        "submitted": "[AR] تم إرسال {{type}}.",
+        "view_on_bscscan": "[AR] عرض على BscScan"
+      }
+    },
+    "claim_panel": {
+      "title": "[AR] طالب برموز $JEREMY الخاصة بك",
+      "connect_wallet_prompt": "[AR] يرجى ربط محفظتك للمطالبة بالرموز.",
+      "wrong_network_prompt": "[AR] يرجى التبديل إلى شبكة Binance Smart Chain (المعرف: {{targetChainId}}) للمطالبة.",
+      "not_claimable_yet": "[AR] ستكون المطالبة بالرموز متاحة بعد انتهاء البيع المسبق في {{endDate}}.",
+      "claim_ready": "[AR] لقد انتهى البيع المسبق! يمكنك الآن المطالبة برموز $JEREMY التي اشتريتها.",
+      "error_claim_failed": "[AR] فشل تحضير المطالبة. هل أنت مؤهل أم أن فترة المطالبة قد بدأت؟",
+      "error_generic_claim": "[AR] فشلت المطالبة.",
+      "claim_button": "[AR] طالب بالرموز",
+      "claiming_button": "[AR] جارٍ معالجة المطالبة..."
+    },
+    "tokenomics_section": {
+      "title": "[AR] اقتصاديات رمز $JEREMY",
+      "description": "[AR] لدى $JEREMY إجمالي المعروض المصمم للنمو المستدام ومكافآت المجتمع. تضمن اقتصاديات الرمز لدينا توزيعًا عادلًا وسيولة قوية وتطويرًا مستمرًا.",
+      "total_supply_label": "[AR] إجمالي المعروض:",
+      "total_supply_value": "[AR] 1,000,000,000 $JEREMY",
+      "token_symbol_label": "[AR] رمز الرمز:",
+      "network_label": "[AR] الشبكة:",
+      "network_value": "[AR] Binance Smart Chain (BEP-20)",
+      "distribution": {
+        "presale": "[AR] البيع المسبق",
+        "liquidity": "[AR] السيولة",
+        "team_advisors": "[AR] الفريق والمستشارون",
+        "marketing_development": "[AR] التسويق والتطوير",
+        "ecosystem_fund": "[AR] صندوق النظام البيئي"
+      },
+      "chart_tooltip": "[AR] {{name}} : {{value}}%"
+    },
+    "roadmap_section": {
+      "title": "[AR] رحلتنا إلى القمر",
+      "q3_2025_title": "[AR] إطلاق البيع المسبق وبناء المجتمع",
+      "q3_2025_desc": "[AR] بدء البيع المسبق لـ $JEREMY. تنمية جيش الحلزون لدينا على وسائل التواصل الاجتماعي. حملة تسويقية أولية.",
+      "q4_2025_title": "[AR] الإدراج في PancakeSwap وأول CEX",
+      "q4_2025_desc": "[AR] إدراج $JEREMY بنجاح في PancakeSwap. تأمين الإدراج في بورصة مركزية مرموقة. إطلاق برنامج التخزين.",
+      "q1_2026_title": "[AR] مجموعة NFT و Snailverse Alpha",
+      "q1_2026_desc": "[AR] إصدار مجموعة J-SNAIL NFT الحصرية. إطلاق ألفا لـ Snailverse، عالمنا الميتافيرس المدعوم بالميمات.",
+      "q2_2026_title": "[AR] الشراكات وتوسيع المنصة",
+      "q2_2026_desc": "[AR] إقامة شراكات استراتيجية في مجال DeFi وعملات الميم. توسيع ميزات Snailverse وفائدتها لـ $JEREMY.",
+      "completed": "[AR] مكتمل"
+    },
+    "team_section": {
+      "title": "[AR] تعرف على الحلزونات خلف القواقع",
+      "member1_name": "[AR] J-Snail Prime",
+      "member1_role": "[AR] الرئيس والرؤيوي",
+      "member1_bio": "[AR] الحلزون الأصلي ذو السلسلة الذهبية. العقل المدبر وراء إمبراطورية $JEREMY. بطيء، ثابت، وفاحش الثراء.",
+      "member2_name": "[AR] Shelly \"المطورة\" الحلزون",
+      "member2_role": "[AR] مطورة بلوكتشين رئيسية",
+      "member2_bio": "[AR] تبرمج أسرع من فهد يتناول الإسبريسو. بنت Snailverse من الصفر. لا تدع القوقعة تخدعك.",
+      "member3_name": "[AR] Gary \"الضجة\" بطني الأقدام",
+      "member3_role": "[AR] كبير مسؤولي التسويق",
+      "member3_bio": "[AR] ينشر كلمة $JEREMY كالنار في الهشيم. يستطيع بيع الملح للبزاقة. سيد الميمات والحملات الفيروسية."
+    },
+    "faq_section": {
+      "title": "[AR] الأسئلة الشائعة",
+      "q1_question": "[AR] ما هو $JEREMY؟",
+      "q1_answer": "[AR] $JEREMY هو رمز ميم BEP-20 ثوري على شبكة Binance Smart Chain، بقيادة J-Snail الكاريزمي. إنه أكثر من مجرد رمز؛ إنه مجتمع، وأجواء، وتذكرتك إلى Snailverse!",
+      "q2_question": "[AR] كيف يمكنني شراء رموز $JEREMY؟",
+      "q2_answer": "[AR] يمكنك شراء رموز $JEREMY خلال حدث البيع المسبق الخاص بنا باستخدام BNB أو USDT. قم بتوصيل محفظتك (MetaMask، Trust Wallet، إلخ) بموقع البيع المسبق الرسمي الخاص بنا واتبع الخطوات البسيطة في \"لوحة الشراء\".",
+      "q3_question": "[AR] متى يمكنني المطالبة بالرموز التي اشتريتها؟",
+      "q3_answer": "[AR] يمكن المطالبة بالرموز المشتراة خلال البيع المسبق بعد انتهاء حدث البيع المسبق. سيتم تمكين وظيفة المطالبة على هذا الموقع. راجع \"لوحة المطالبة\" للحصول على التفاصيل.",
+      "q4_question": "[AR] ما هو Snailverse؟",
+      "q4_answer": "[AR] Snailverse هو عالمنا الميتافيرس القادم المدعوم بالميمات حيث يمكن لحاملي $JEREMY التفاعل ولعب الألعاب وكسب المكافآت. سيكون بطيئًا وثابتًا وملحميًا!",
+      "q5_question": "[AR] هل تم تدقيق العقد الذكي؟",
+      "q5_answer": "[AR] نعم، تم تدقيق عقود البيع المسبق ورمز $JEREMY من قبل شركة أمان طرف ثالث مرموقة. يمكنك العثور على رابط تقرير التدقيق على موقعنا (عادةً في التذييل أو قسم \"التدقيق\" المخصص).",
+      "q6_question": "[AR] أين يمكنني العثور على الورقة البيضاء؟",
+      "q6_answer": "[AR] ورقتنا البيضاء المفصلة متاحة للتنزيل. تحقق من الروابط في قسم Hero أو تذييل هذا الموقع."
+    },
+    "social_bar": {
+      "title": "[AR] انضم إلى فرقة الحلزون!"
+    },
+    "footer": {
+      "whitepaper": "[AR] الورقة البيضاء",
+      "audit_report": "[AR] تقرير التدقيق",
+      "presale_contract": "[AR] عقد البيع المسبق",
+      "disclaimer": "[AR] إخلاء المسؤولية: يخضع استثمار العملات المشفرة لمخاطر سوق عالية. يرجى إجراء استثماراتك بحذر. $JEREMY هو رمز ميم تم إنشاؤه لأغراض ترفيهية. قم دائمًا بإجراء البحث الخاص بك (DYOR). هذه ليست نصيحة مالية.",
+      "copyright": "[AR] © {{year}} Jeremy الحلزون. جميع الحقوق محفوظة لأغنى حلزون في المستنقع."
+    },
+    "common": {
+      "loading_spinner_alt": "[AR] جارٍ التحميل..."
+    }
+  }
+}
